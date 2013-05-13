@@ -1,5 +1,5 @@
-risc
-====
+Au coeur du RISC
+===============
 
 *Au coeur du RISC* est un RTS qui se déroule dans un microprocesseur.
 
