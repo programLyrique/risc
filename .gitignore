@@ -1,0 +1,9 @@
+/nbproject/private/
+*.class
+/lib/lwjgl-2.8.5/doc/
+/lib/lwjgl-2.8.5/res/
+/lib/lwjgl-2.8.5/native/solaris/
+/lib/lwjgl-2.8.5/native/windows/
+/lib/lwjgl-2.8.5/native/macosx/
+/build/
+/dist/
